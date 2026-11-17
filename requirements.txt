@@ -1,0 +1,21 @@
+# Environment used: Python 3.14
+matplotlib
+beautifulsoup4
+tqdm
+nglview
+ipywidgets
+pypdb
+requests
+requests_cache
+redo
+# ipynb packages
+notebook
+nbformat
+nbclient
+ipykernel
+# OpenCADD-style stack
+MDAnalysis
+pandas
+numpy
+rdkit
+biotite
